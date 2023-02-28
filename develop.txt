@@ -1,0 +1,7 @@
+developing text
+x+124:sfasd
+sfas
+.<
+>>
+SFA<:12;
+for(i=0;i<=infinity;i++)
