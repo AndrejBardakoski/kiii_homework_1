@@ -5,3 +5,4 @@ sfas
 >>
 SFA<:12;
 for(i=0;i<=infinity;i++)
+	print('hello world')
